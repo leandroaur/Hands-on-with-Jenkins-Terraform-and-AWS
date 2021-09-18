@@ -7,7 +7,7 @@ variable "subnet_id" {
 }
 
 variable "region" {
-  default = "sa-east-1"
+  default = "eu-west-2"
 }
 
 variable "UNIQUE_ANIMAL_IDENTIFIER" {

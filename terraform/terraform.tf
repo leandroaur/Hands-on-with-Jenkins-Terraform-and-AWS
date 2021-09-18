@@ -5,6 +5,6 @@ provider "aws" {
 terraform {
   backend "s3" {
     encrypt = true
-    region  = "sa-east-1"
+    region  = "eu-west-2"
   }
 }
